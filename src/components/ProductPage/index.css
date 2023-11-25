@@ -1,0 +1,37 @@
+.product-width {
+  width: 300px;
+}
+.items-in-flex {
+  display: flex;
+}
+
+.remain-items-width {
+  width: 150px;
+}
+
+.remain-items-b {
+  width: 170px;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.edit-button-details {
+  background-color: transparent;
+  border-width: 0px;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+
+.margin-top {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.width-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background-size: cover;
+  margin-right: 20px;
+}

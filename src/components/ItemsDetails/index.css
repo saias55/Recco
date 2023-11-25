@@ -1,0 +1,53 @@
+.items-bgc {
+  background-color: whitesmoke;
+  margin-top: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+  padding: 50px;
+}
+
+.input-button-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-details {
+  width: 300px;
+  height: 35px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.button-details-item {
+  height: 30px;
+  width: 110px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: green;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.header-details-flex {
+  display: flex;
+  margin-left: 65px;
+}
+
+.width-of-product {
+  width: 300px;
+}
+
+.width-of-remaning-header {
+  width: 150px;
+}
+.width-of-remaning-b {
+  width: 170px;
+}
+
+.printer-details {
+  margin-left: 20px;
+}
+
+.flex-button {
+  display: flex;
+}
